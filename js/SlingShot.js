@@ -22,7 +22,8 @@ class Slingshot{
             
             strokeWeight(4);
            // write stroke() to set the color to red
-
+ stroke(64,244,208)
+            line(pointA.x,pointA.y,pointB.x,pointB.y)
            // Write line() to draw a line from pointA to pointB
 
         }
